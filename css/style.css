@@ -1,0 +1,248 @@
+
+* { /*Centralizar nosso Site sem Margem alguma- zera todos os elementos*/
+
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#Menu-Batman {
+list-style-type: none; /*As bolinhas são removidas das listas não ordenadas  */
+color: #E40E0E;
+text-align: left;
+font-family:inherit;
+font-size: 30px;
+}
+
+#Menu-Batman li {
+display: inline; /*torna um do lado do outro, no caso a li*/
+padding: 10px;
+margin: 10px;   
+}
+
+#Menu-Batman li a {      
+padding: 10px;
+margin: 10px;
+display: inline-block; /**/
+}
+
+
+
+/*Fazendo o Header, man e footer*/
+
+
+#Back-Ground-Menu {
+
+background-image: url(../img/Back.jpg);
+background-repeat: no-repeat;
+background-position:center;
+background-size: cover;
+height: 520px;
+width: 1350px;
+padding: 10px;
+
+background-color: black;
+
+}
+
+#Body-Site {
+background-color: black;
+height: 2000px;
+}
+
+#Titulo-principal {
+width: 297px;
+height: 61px;    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */   
+color: #E40E0E;
+}
+
+
+#Sub-titulos-princupal {    
+font-family:inherit; 
+color: #E7DBD5;
+text-align: center;
+font-size: 30px;
+
+}
+
+#Batman-nome {
+color: #E40E0E;
+}
+
+#Team-principal {
+color:#E40E0E;
+font-size: 40px;
+padding: 20px;
+margin: 10px;
+}
+
+
+
+.iline1 {
+
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        background-image: url(../img/Personagem2.jpg);
+        margin: 45px;
+        background-size: 210px;
+        background-repeat: no-repeat;
+        display: inline-block; 
+         /*elemento um do lado do outro  */
+         border-radius: 120px;
+         
+        
+        
+        }
+
+.iline {
+
+   width: 200px;
+    height: 200px;
+     background-color: red;
+      background-image: url(../img/Personagem1.jpg);
+     margin: 45px;
+     background-size: 210px;
+     background-repeat: no-repeat;
+    display: inline-block; 
+     border-radius: 120px;
+            
+            
+
+}
+
+.iline2 {
+
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    background-image: url(../img/Personagem3.jpg);
+    margin: 45px;
+    background-size: 240px;
+    background-repeat: no-repeat;
+    display: inline-block; 
+     /*elemento um do lado do outro  */
+     border-radius: 120px;
+    
+    
+    }
+
+
+    .iline3 {
+
+        width: 200px;
+        height: 200px;
+        background-color: red;
+        background-image: url(../img/Personagem4.jpg);
+        margin: 50px;
+        background-size: 250px;
+        background-repeat: no-repeat;
+        display: inline-block; 
+         /*elemento um do lado do outro  */
+         border-radius: 120px;
+        
+        
+        }
+
+
+
+
+
+
+
+#texto-iline1 {
+
+    color: white;
+    font-size: 20px;
+    display: inline;
+    text-align: left;
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+    word-break:normal;
+    
+    
+    
+    }
+
+    #texto-iline2 {
+
+        color: white;
+        font-size: 20px;
+        display: inline;
+        text-align: left;
+        margin: 60px;
+        padding: 60px;
+        text-align: center;
+        word-break: normal;
+        
+        
+        
+        }
+
+    
+        #texto-iline3 {
+
+            color: white;
+            font-size: 20px;
+            display: inline;
+            text-align: left;
+            margin: 55px;
+            padding: 55px;
+            text-align: center;
+            word-break: normal;
+            
+            
+            }
+
+            #texto-iline4 {
+
+                color: white;
+                font-size: 20px;
+                display: inline;
+                text-align: left;
+                margin: 55px;
+                padding: 55px;
+                text-align: center;
+                word-break: normal;
+                
+                
+                
+                }
+
+
+#Movie-principal {
+
+    color:#E40E0E;
+    font-size: 40px;
+    padding: 20px;
+    margin: 10px;
+
+
+}
+
+
+
+
+
+
+#imagem-do-movie {
+color: white;
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+word-break: normal;
+padding: 10px;
+margin: 10px;
+display: inline-block;
+
+}
+
+
+
